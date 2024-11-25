@@ -14,4 +14,5 @@
 	    spring.jpa.show-sql=true
 	    spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 	    
-- Levantar la app de springboot.
+- Levantar la app de springboot. Hibernate automáticamente generará las tablas por la configuración **spring.jpa.hibernate.ddl-auto=create-drop**.
+- Ya puede revisar las tablas de las bases de dato y sus relaciones.
