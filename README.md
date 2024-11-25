@@ -1,4 +1,12 @@
-# Instalación
+# Ejercicio de relación de Tablas en mySQL
+Éste es un ejercicio con fines didactivos para practicar relaciones de tablas:
+**UNO-A-UNO**, **UNO-A-MUCHOS**, **MUCHOS-A-UNO** y **MUCHOS-A-MUCHOS**.
+
+Para llegar a tal fin, se realizó un ejercicio de Equipo de futbol y su relación con técnico, jugadores, asociación y competencias.
+
+![Captura de pantalla 24 11 2024 a 21 34 58 p  m](https://github.com/user-attachments/assets/74d45de1-dd0e-4f7a-a0dc-b367f73328f8)
+
+## Instalación
 
  - Crear una base de datos en **MySQL** con los comandos: `CREATE TABLE nombre_db`
  - Crear el archivo **application.properties** dentro de **resources** con la siguiente configuración:
