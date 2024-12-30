@@ -23,4 +23,4 @@ Para llegar a tal fin, se realizó un ejercicio de Equipo de futbol y su relaci�
 	    spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 	    
 - Levantar la app de springboot. Spring JPA automáticamente generará las tablas por la configuración **spring.jpa.hibernate.ddl-auto=create-drop**.
-- Ya puede revisar las tablas de la base de dato y sus relaciones.
+- Ya puede revisar las tablas de la base de datos y sus relaciones.
